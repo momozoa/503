@@ -18,7 +18,7 @@ public class Test extends JFrame {
 		JTextField txtEng = new JTextField(8);
 		JTextField txtKor = new JTextField(8);
 		
-		JButton btnInsert = new JButton("삽입");
+		JButton btnInsert = new JButton("신규입력");
 		
 		JButton btnSearch = new JButton("찾기");
 		
